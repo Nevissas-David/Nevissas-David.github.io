@@ -4,6 +4,6 @@ body{
     background-size: cover;
     background-repeat: no-repeat;
 }
-.jumbotron {
+.jumbotron, #customJumbo {
     background-color: rgba(210, 213, 219, 0.8);
 }

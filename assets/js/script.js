@@ -12,8 +12,8 @@ var drawingSkills = new CanvasJS.Chart("drawingSkills", {
 		yValueFormatString: "##0.00\"%\"",
 		indexLabel: "{label} {y}",
 		dataPoints: [
-			{y: 60, label: "Acquis", color: "rgb(76, 144, 255)"},
-            {y: 40, label: "Non acquis", color: "white"}
+			{y: 75, label: "Acquis", color: "rgb(76, 144, 255)"},
+            {y: 25, label: "Non acquis", color: "white"}
 		]
 	}]
 });
@@ -30,8 +30,8 @@ var infographySkills = new CanvasJS.Chart("infographySkills", {
 		yValueFormatString: "##0.00\"%\"",
 		indexLabel: "{label} {y}",
 		dataPoints: [
-			{y: 20, label: "Acquis", color: "rgb(76, 144, 255)"},
-            {y: 80, label: "Non acquis", color: "white"}
+			{y: 35, label: "Acquis", color: "rgb(76, 144, 255)"},
+            {y: 65, label: "Non acquis", color: "white"}
 		]
 	}]
 });
@@ -84,8 +84,8 @@ var readingSkills = new CanvasJS.Chart("readingSkills", {
 		yValueFormatString: "##0.00\"%\"",
 		indexLabel: "{label} {y}",
 		dataPoints: [
-			{y: 50, label: "Acquis", color: "rgb(76, 144, 255)"},
-            {y: 50, label: "Non acquis", color: "white"}
+			{y: 75, label: "Acquis", color: "rgb(76, 144, 255)"},
+            {y: 25, label: "Non acquis", color: "white"}
 		]
 	}]
 });
@@ -102,8 +102,8 @@ var softwareSkills = new CanvasJS.Chart("softwareSkills", {
 		yValueFormatString: "##0.00\"%\"",
 		indexLabel: "{label} {y}",
 		dataPoints: [
-			{y: 25, label: "Acquis", color: "rgb(76, 144, 255)"},
-            {y: 75, label: "Non acquis", color: "white"}
+			{y: 40, label: "Acquis", color: "rgb(76, 144, 255)"},
+            {y: 60, label: "Non acquis", color: "white"}
 		]
 	}]
 });
